@@ -13,7 +13,6 @@ public class Main {
 
         //Задаємо параметри для об'єтка
 
-
         int radiusSmallCar=13;
         int radiusBigCar=20;
         String Brand="Bogdan";
